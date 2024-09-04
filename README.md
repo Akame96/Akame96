@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [deFS28-Team3-Project4](https://github.com/develhope/FS28-Team2-Project4)
 
-- 🌱 I’m currently learning **typescript**
+- 🌱 I’m currently learning **Node.js**
 
 - 🏫 I'm currently studing in **Develhope**
 
