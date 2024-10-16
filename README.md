@@ -3,17 +3,23 @@
 
 - 🔭 I’m currently working on [deFS28-Team3-Project4](https://github.com/develhope/FS28-Team2-Project4)
 
-- 🌱 I’m currently learning **Node.js**
+-🌱 Languages: Javascript, Typescript, Node.js, HTML, and CSS
 
-- 🏫 I'm currently studing in **Develhope**
+-📚 Libraries: React.js
 
-- 👀 I’m interested in **programming and learn new things**
+-🏫 Studies: Develhope
 
-- 👨‍💻 All of my projects are available at [https://github.com/Akame96?tab=repositories](https://github.com/Akame96?tab=repositories)
+-👀 I’m interested in programming and learning new things
 
-- 💬 Ask me about **Anything**
+-👨‍💻 All of my projects are available at https://github.com/Akame96?tab=repositories
 
-- 📫 How to reach me **nunzia.biele@virgilio.it**
+-💬 Ask me about Anything
+
+-📫 How to reach me: nunzia.biele@virgilio.it
+
+-🎮 Hobbies: Videogames, music, and programming
+
+-🌍 Languages spoken: Italian and English
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
