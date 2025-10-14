@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nunzia</h1>
 <h3 align="center">A passionate Fullstack developer from Italy</h3>
 
-- 🔭 I’m currently working on [deFS28-Team3-Project4](https://github.com/develhope/FS28-Team2-Project4)
+- 🔭 I’m currently working on Volantinopiu projects
 
 -🌱 Languages: Javascript, Typescript, Node.js, HTML, and CSS
 
